@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    
+}
+
+header {
+    background-color: #454747;
+    margin-bottom: 15px;
+    color: #DAE0E0;
+}
+
+
+img {
+    margin: 15px;
+}
+
+
+li{
+    margin: 35px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+footer {
+    background-color:#454747;
+    height: 130PX;
+}
+
+
+li > div {
+    height: 350px;
+    overflow: scroll;
+    width: 400px;
+    text-align: left;
+}
+   
+section > ul > li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 15px;
+    text-align: left;
+}
+
+button {
+    background-color: black;
+    border: none;
+    color: #DAE0E0;
+    padding: 16px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+}
+
+button:hover {
+    text-decoration: underline;
+    color: palevioletred;
+    transition: 350ms;
+    
+}
+
+
+main ul li p:first-child {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
