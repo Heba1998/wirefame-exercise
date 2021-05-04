@@ -49,13 +49,13 @@ button {
     padding: 16px 32px;
     font-size: 16px;
     margin: 4px 2px;
-    border-radius: 10px;
 }
 
 button:hover {
     text-decoration: underline;
     color: palevioletred;
     transition: 350ms;
+    border-radius: 10px;
     
 }
 
