@@ -1,9 +1,12 @@
+
+
 body {
+    background-color: white;
     text-align: center;  
 }
 
 header {
-    background-color: #454747;
+    background-color:#454747;
     margin-bottom: 15px;
     color: #DAE0E0;
 }
@@ -12,7 +15,10 @@ header {
 img {
     margin: 15px;
 }
-
+a {
+    color: #DAE0E0;
+    text-decoration: none;
+}
 
 li{
     margin: 15px;
